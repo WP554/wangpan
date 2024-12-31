@@ -1,0 +1,11 @@
+streamlit  
+requests  
+jieba  
+pandas  
+matplotlib  
+wordcloud  
+seaborn  
+validators  
+altair  
+plotly  
+pygal
